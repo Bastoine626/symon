@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: rgb(12, 172, 235);
+    width: auto;
+}
+
+nav ul{
+    list-style: none;
+}
+nav li{
+    margin: 20px 50px;
+    padding: 10x 25px;
+}
+nav ul li{
+    display: inline-block;
+    justify-content: space-between;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: brown;
+}
+nav a:hover{
+    color: brown;
+}
+
+/*section*/
+section article{
+    width: 50%;
+}
+section article h1{
+    padding-top: 50px;
+    margin-left: 100px;
+    font-size: 40px;
+}
+section article h2{
+    padding-top: 50px;
+    margin-left: 100px;
+    font-size: 40px;
+}
+section article p{
+    padding-top: 20px;
+    margin-left: 100px;
+}
+ 
+
+section  img{
+    float: center;
+    width: 30%;
+    margin-left: 200px;
+    padding-top: 98px;
+}
